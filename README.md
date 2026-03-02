@@ -13,8 +13,6 @@ This repository hosts the technical documentation for all (in)active projects wi
 
 [**Explore the Docs »**]([https://your-github-pages-link.com](https://github.com/BUT-DRONE-RESEARCH-CENTER/Documentation))
 
----
-
 ## 🏠 [Home](./docs/index.md)
 The central landing page. Contains core documentation info, lab mission statements, and general announcements.
 
@@ -29,8 +27,6 @@ A directory of active lab training sessions. Each entry defines the **target aud
 
 ## 📖 [Tutorials](./docs/tutorials/)
 The final destination for completed research. Once a project reaches a milestone, it is distilled into a tutorial. This section also hosts a curated list of essential external web resources.
-
----
 
 ## ✍️ Documentation Protocol
 
@@ -47,7 +43,6 @@ The `main.md` file exists in every project folder and serves as the official/fin
 * **Workflow:** Upon conclusion or a major milestone, individual logs are summarized and merged into `main.md`.
 * **Content:** Final architectures, installations, consolidated results, and conclusions.
 
----
 
 ## 🚀 Contributor's Quickstart
 
