@@ -1,3 +1,6 @@
+---
+title: Home
+---
 # Welcome to Drone Research Center | Wiki
 
 Toto je oficiální stránka pro dokumentaci DRC projektů

@@ -1,0 +1,7 @@
+
+nav:
+  - Home: index.md
+  - Projects: projects
+  - Workshops: workshops
+  - Tutorials: tutorials
+  - About: About.md

@@ -2,8 +2,8 @@ site_name: DRC Wiki
 site_url: https://drc-wiki.github.io/
 theme: 
   name: material
-  logo: images/DRC_logo.png
-  favicon: images/DRC_logo.png
+  logo: images/Dron_DRC_BUT_WB.png
+  favicon: images/Dron_DRC_BUT_WB.png
   palette: 
     - scheme: default
       primary: red
@@ -42,6 +42,12 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/omichalcik
+      link: https://github.com/BUT-DRONE-RESEARCH-CENTER
 
-copyright: "Copyright &copy; 2026 DRC Wiki (brought to you by <a href='https://github.com/omichalcik'>The GOATEST programmer</a>)"
+copyright: "Copyright &copy; 2026 DRC Wiki (brought to you by <a href='https://github.com/omichalcik'>Onřej Michalčík</a>)"
+
+plugins:
+  - search
+  - awesome-nav
+
+
