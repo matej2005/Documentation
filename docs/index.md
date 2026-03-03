@@ -43,14 +43,14 @@ To maintain accountability and organized knowledge transfer, all members must fo
 
 ### 1. Individual Progress Logs
 Every member maintains a dedicated "Dev Diary" within their specific project folder.
-- **Location:** `Projects/Category/ProjectName/YourName.md` (e.g., `Projects/Software/ICUAS/Adam.md`)
-- **Frequency:** Update **weekly** with tasks, bugs, and raw data logs.
-- **Context:** Document the "failures" too—knowing why a $PID$ tune failed is as important as the final values.
+* **Location:** `Projects/Category/ProjectName/YourName.md` (e.g., `Projects/Software/ICUAS/Adam.md`)
+* **Frequency:** Update **weekly** with tasks, bugs, and raw data logs.
+* **Context:** Document the "failures" too—knowing why a $PID$ tune failed is as important as the final values.
 
 ### 2. The Project Master (`main.md`)
 The official/final project record located in every project folder.
-- **Workflow:** Upon reaching a major milestone, individual logs are summarized and merged into `main.md`.
-- **Content:** Final architectures, installation guides, and consolidated conclusions.
+* **Workflow:** Upon reaching a major milestone, individual logs are summarized and merged into `main.md`.
+* **Content:** Final architectures, installation guides, and consolidated conclusions.
 
 ## 🛠️ Content Standards
 To keep this wiki clean, follow the **Signal-over-Noise** principle:
@@ -61,8 +61,8 @@ To keep this wiki clean, follow the **Signal-over-Noise** principle:
 * **SOPs:** **Standard Operation Procedures**--Step-by-step guides that a new member could follow without supervision.
 
 **❌ What NOT to Write:**
-- **Redundant Manuals:** Don't copy-paste the Betaflight or ArduPilot wiki. **Link to it**!
-- **Ephemeral Data:** Don't document daily weather or current battery voltages, unless it is specifically required. Keep it evergreen.
-- **Unverified Hacks:** If you bypassed a safety sensor, label it as a **temporary workaround**, not a standard procedure.
+* **Redundant Manuals:** Don't copy-paste the Betaflight or ArduPilot wiki. **Link to it**!
+* **Ephemeral Data:** Don't document daily weather or current battery voltages, unless it is specifically required. Keep it evergreen.
+* **Unverified Hacks:** If you bypassed a safety sensor, label it as a **temporary workaround**, not a standard procedure.
 
 > **Note:** All flight logs must be uploaded within 24 hours of a field test. Boring flights are still data—document them. As well as crashes.
