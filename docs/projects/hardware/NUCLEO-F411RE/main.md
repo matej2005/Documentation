@@ -1,5 +1,5 @@
 # Dev Board: NUCLEO-F411RE
-![NUCLEO-F411RE_Pictute](https://www.st.com/bin/ecommerce/api/image.PF260320.en.feature-description-include-personalized-no-cpn-large.jpg)
+![NUCLEO-F411RE_Pictute](./images/nucleo-front.jpeg)
 
 [Official Website](https://www.st.com/en/evaluation-tools/nucleo-f411re.html)
 
